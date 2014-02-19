@@ -1,4 +1,3 @@
-sample-corona-lock
-==================
+# sample-corona-lock
 
 Lock scene sample code for Corona SDK.
