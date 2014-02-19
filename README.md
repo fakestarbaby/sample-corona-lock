@@ -1,3 +1,3 @@
-# sample-corona-lock
+# sample-corona-loading
 
-Lock scene sample code for Corona SDK.
+Loading scene sample code for Corona SDK.
